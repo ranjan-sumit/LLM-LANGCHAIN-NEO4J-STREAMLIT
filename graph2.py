@@ -14,7 +14,7 @@ from langchain_core.runnables import (
     RunnableParallel,
     RunnablePassthrough,
 )
-from yfiles_jupyter_graphs import GraphWidget
+
 from neo4j import GraphDatabase
 from langchain_community.graphs import Neo4jGraph
 import os
