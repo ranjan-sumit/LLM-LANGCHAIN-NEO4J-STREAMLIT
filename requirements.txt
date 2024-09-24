@@ -1,0 +1,9 @@
+langchain-core
+langchain-community
+langchain-experimental
+langchain-openai
+pydantic
+neo4j
+streamlit
+pyvis
+python-dotenv
