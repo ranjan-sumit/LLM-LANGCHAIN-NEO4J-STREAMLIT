@@ -41,7 +41,7 @@ tab1, tab2, tab3 = st.tabs([" APCO QNA", "Knowledge Graph", "Add New Data"])
 neo4j_password = st.sidebar.text_input("NEO4J Password", type="password")
 openai_api_key = st.sidebar.text_input("OpenAI API Key", type="password")
 
-NEO4J_URI= "neo4j+s://bcd2c1de.databases.neo4j.io"
+NEO4J_URI= "neo4j+s://88b87c1d.databases.neo4j.io"
 NEO4J_USERNAME="neo4j"
 NEO4J_PASSWORD=neo4j_password
 OPENAI_API_KEY=openai_api_key
